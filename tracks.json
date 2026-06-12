@@ -111,8 +111,8 @@
       "Am",
       "F"
     ],
-    "capo": 3,
-    "url": "https://tabs.ultimate-guitar.com/tab/imagine-dragons/demons-chords-1149539"
+    "capo": null,
+    "url": "https://tabs.ultimate-guitar.com/tab/boyce-avenue/demons-chords-1683420"
   },
   "Mad World": {
     "chords": [
@@ -434,5 +434,27 @@
     ],
     "capo": null,
     "url": "https://tabs.ultimate-guitar.com/tab/bobby-mcferrin/dont-worry-be-happy-official-2617842"
+  },
+  "The Fox" : {
+    "chords": [
+      "C#m",
+      "B",
+      "F#",
+      "A",
+      "G#m"
+    ],
+    "capo": null,
+    "url": "https://tabs.ultimate-guitar.com/tab/ylvis/the-fox-official-5765861"
+  },
+  "Brown Eyed Girl": {
+    "chords": [
+      "G",
+      "C",
+      "D",
+      "D7",
+      "Em"
+    ],
+    "apo": null,
+    "url": "https://tabs.ultimate-guitar.com/tab/van-morrison/brown-eyed-girl-official-1960765"
   }
 }
